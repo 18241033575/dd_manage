@@ -34,6 +34,12 @@ export default {
     background-color: #f7fafd;
     color: #191F25;
   }
+  .fl{
+    float: left;
+  }
+  .fr{
+    float: right;
+  }
   .main{
     margin: 30px auto;
     width: 1200px;
@@ -78,7 +84,7 @@ export default {
     border-bottom: 1px solid rgba(25,31,37,0.08);
     font-size: 14px;
   }
-  .list li span img{
+  .list td img{
     margin-right: 5px;
     width: 14px;
     height: 14px;
