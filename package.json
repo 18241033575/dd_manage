@@ -13,7 +13,7 @@
     "bootstrap": "^4.0.0",
     "fundebug-javascript": "^1.9.0",
     "fundebug-vue": "0.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
