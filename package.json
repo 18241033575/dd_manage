@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "fundebug-javascript": "^1.9.0",
     "fundebug-vue": "0.0.1",
     "jquery": "^3.4.1",
